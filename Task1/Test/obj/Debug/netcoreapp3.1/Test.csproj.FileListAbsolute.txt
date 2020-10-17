@@ -1,0 +1,17 @@
+D:\IDTL\Epam\DotNet\Task1\Test\bin\Debug\netcoreapp3.1\Test.exe
+D:\IDTL\Epam\DotNet\Task1\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+D:\IDTL\Epam\DotNet\Task1\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+D:\IDTL\Epam\DotNet\Task1\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+D:\IDTL\Epam\DotNet\Task1\Test\bin\Debug\netcoreapp3.1\Test.dll
+D:\IDTL\Epam\DotNet\Task1\Test\bin\Debug\netcoreapp3.1\Test.pdb
+D:\IDTL\Epam\DotNet\Task1\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+D:\IDTL\Epam\DotNet\Task1\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+D:\IDTL\Epam\DotNet\Task1\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+D:\IDTL\Epam\DotNet\Task1\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete
+D:\IDTL\Epam\DotNet\Task1\Test\obj\Debug\netcoreapp3.1\Test.dll
+D:\IDTL\Epam\DotNet\Task1\Test\obj\Debug\netcoreapp3.1\Test.pdb
+D:\IDTL\Epam\DotNet\Task1\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+D:\IDTL\Epam\DotNet\Task1\Test\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\IDTL\Epam\DotNet\Task1\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+D:\IDTL\Epam\DotNet\Task1\Test\bin\Debug\netcoreapp3.1\Figures.dll
+D:\IDTL\Epam\DotNet\Task1\Test\bin\Debug\netcoreapp3.1\Figures.pdb

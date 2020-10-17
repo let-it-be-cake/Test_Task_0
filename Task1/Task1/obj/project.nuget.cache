@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+mF2PRGEgFd7RCB2HLnRGRB1pHpUnT9blxnn2ZQ3IRpz1CFy0pvTdIa/1PtVDIdSLWrg+SyQg/iYBQNd2iGUJw==",
+  "success": true,
+  "projectFilePath": "D:\\IDTL\\Epam\\DotNet\\Task1\\Task1\\Figures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

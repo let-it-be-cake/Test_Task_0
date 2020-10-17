@@ -1,0 +1,9 @@
+D:\IDTL\Epam\DotNet\Task1\Task1\bin\Debug\netstandard2.0\Task1.deps.json
+D:\IDTL\Epam\DotNet\Task1\Task1\bin\Debug\netstandard2.0\Task1.dll
+D:\IDTL\Epam\DotNet\Task1\Task1\bin\Debug\netstandard2.0\Task1.pdb
+D:\IDTL\Epam\DotNet\Task1\Task1\obj\Debug\netstandard2.0\Task1.csprojAssemblyReference.cache
+D:\IDTL\Epam\DotNet\Task1\Task1\obj\Debug\netstandard2.0\Task1.AssemblyInfoInputs.cache
+D:\IDTL\Epam\DotNet\Task1\Task1\obj\Debug\netstandard2.0\Task1.AssemblyInfo.cs
+D:\IDTL\Epam\DotNet\Task1\Task1\obj\Debug\netstandard2.0\Task1.csproj.CoreCompileInputs.cache
+D:\IDTL\Epam\DotNet\Task1\Task1\obj\Debug\netstandard2.0\Task1.dll
+D:\IDTL\Epam\DotNet\Task1\Task1\obj\Debug\netstandard2.0\Task1.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qoJfeoi1ORyFq8WcelZUAA4CbBZjIQApJWEwVGVxNj1WVuJvgRvbIhRP7sJx/A30h27OAHTYMjZRQaredS4g3Q==",
+  "success": true,
+  "projectFilePath": "D:\\IDTL\\Epam\\DotNet\\Task1\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\csvhelper\\15.0.8\\csvhelper.15.0.8.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
